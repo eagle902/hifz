@@ -1,0 +1,29 @@
+{
+ "name": "سُلَّم الحفظ",
+ "short_name": "سلم الحفظ",
+ "start_url": "./",
+ "scope": "./",
+ "display": "standalone",
+ "background_color": "#F6F7F3",
+ "theme_color": "#24508F",
+ "icons": [
+  {
+   "src": "icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png"
+  },
+  {
+   "src": "icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png"
+  },
+  {
+   "src": "icon-maskable.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "maskable"
+  }
+ ],
+ "lang": "ar",
+ "dir": "rtl"
+}
