@@ -1,6 +1,6 @@
 {
- "name": "سُلَّم الحفظ",
- "short_name": "سلم الحفظ",
+ "name": "حفظ",
+ "short_name": "حفظ",
  "start_url": "./",
  "scope": "./",
  "display": "standalone",
